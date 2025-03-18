@@ -1,0 +1,4 @@
+﻿password,firstName,lastName,email,phone,address1,address2,city,state,zip,country,language,favouriteCategoryId,listOption,bannerOption
+12345,Mohammed,Ashraf,mhd.ash.98@gmail.com,01018652483,17,Mariotia,EL Haram,Giza,123,Egypt,english,FISH,TRUE,TRUE
+67890,Ahmed,Hossam,A.hossam@gmail.com,01512364756,18,El Hosary ,6th of October,Giza,123,Egypt,english,FISH,TRUE,TRUE
+,,,,,,,,,,,,,,
